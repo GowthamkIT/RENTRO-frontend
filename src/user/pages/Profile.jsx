@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import '../styles/profile.css';
+import '../styles/Profile.css';
 
 const DEFAULT_AVATAR = '/gowtham_ava.jpg';
 
