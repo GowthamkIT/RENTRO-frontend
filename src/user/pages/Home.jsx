@@ -25,11 +25,6 @@ export default function Home() {
             <span className="social-icon">YT</span>
           </div>
         </div>
-      <div className="hero-section">
-        <h1>Welcome to RentEasy</h1>
-        <p>Find your perfect ride, fast and easy.</p>
-      
-      </div>
 
         <div className="hero-center">
           <div className="car-image-container">
