@@ -28,12 +28,7 @@ export default function Home() {
       <div className="hero-section">
         <h1>Welcome to RentEasy</h1>
         <p>Find your perfect ride, fast and easy.</p>
-        <img
-        //background image
-          src="/dark_car.png"
-          alt="Dark Car"
-          className="car-image-center"
-        />
+      
       </div>
 
         <div className="hero-center">
